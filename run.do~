@@ -1,0 +1,4 @@
+vlib work 
+vlog testbench.v
+vsim testbench -l run.log
+#run -all
